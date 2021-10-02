@@ -217,7 +217,7 @@ figcaption li{
     transform: translate(-50%, -50%);
 }
 
-.imagen:hover .link-movie{
+.imagen:hover > .link-movie{
     height: 100%;
     cursor: pointer;
 }
